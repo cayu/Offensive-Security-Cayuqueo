@@ -13,3 +13,8 @@ Al iniciar mi segundo laboratorio para prepararme a dar el nuevo intento de exam
 
 - https://github.com/tjnull/TJ-JPT
 
+Este mismo template, nos ayuda para la etapa de reporte y se puede exportar automáticamente a PDF, lo que nos resta un gran trabajo.
+
+Para la primer edición de mi OSCP utilicé estas plantillas, que me ayudaron mucho tanto para el LAB como para el examen y me dieron una muy buena orientación de como debería presentar el reporte.
+
+- https://github.com/whoisflynn/OSCP-Exam-Report-Template
