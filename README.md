@@ -18,3 +18,17 @@ Este mismo template, nos ayuda para la etapa de reporte y se puede exportar auto
 Para la primer edición de mi OSCP utilicé estas plantillas, que me ayudaron mucho tanto para el LAB como para el examen y me dieron una muy buena orientación de como debería presentar el reporte.
 
 - https://github.com/whoisflynn/OSCP-Exam-Report-Template
+
+Comandos útiles
+------
+
+Download con Powershell al estilo Wget
+```powershell
+Invoke-WebRequest <URL> -OutFile <ARCHIVO DE SALIDA>
+```
+Ejemplo de ejecución :
+```powershell
+Invoke-WebRequest https://raw.githubusercontent.com/M4ximuss/Powerless/master/Powerless.bat -OutFile Powerless.bat
+
+Invoke-WebRequest https://raw.githubusercontent.com/azmatt/windowsEnum/master/windowsEnum.bat -OutFile windowsEnum.bat
+```
