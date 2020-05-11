@@ -19,16 +19,6 @@ Para la primer edición de mi OSCP utilicé estas plantillas, que me ayudaron mu
 
 - https://github.com/whoisflynn/OSCP-Exam-Report-Template
 
-Comandos útiles
+Detalles del examen
 ------
-
-Download con Powershell al estilo Wget
-```powershell
-Invoke-WebRequest <URL> -OutFile <ARCHIVO DE SALIDA>
-```
-Ejemplo de ejecución :
-```powershell
-Invoke-WebRequest https://raw.githubusercontent.com/M4ximuss/Powerless/master/Powerless.bat -OutFile Powerless.bat
-
-Invoke-WebRequest https://raw.githubusercontent.com/azmatt/windowsEnum/master/windowsEnum.bat -OutFile windowsEnum.bat
-```
+Debido a las [restrincciones en el examen](https://support.offensive-security.com/oscp-exam-guide/#exam-restrictions), para esta segunda etapa del OSCP, voy a centrarme a programar mas scrtips y utilizar herramientas manuales.
