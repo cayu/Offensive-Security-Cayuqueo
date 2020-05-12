@@ -22,3 +22,7 @@ Para la primer edición de mi OSCP utilicé estas plantillas, que me ayudaron mu
 Detalles del examen
 ------
 Debido a las [restrincciones en el examen](https://support.offensive-security.com/oscp-exam-guide/#exam-restrictions), para esta segunda etapa del OSCP, voy a centrarme a programar mas scrtips y utilizar herramientas manuales.
+
+Donde busqué info
+------
+- https://github.com/anandkumar11u/OSCP-60days
