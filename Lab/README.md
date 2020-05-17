@@ -10,4 +10,7 @@ Extraer lo links presentes en el HTML de una URL :
 ```shell
 wget -qO- http://google.com/ | grep -Eoi '<a [^>]+>' |  grep -Eo 'href="[^\"]+"' |  grep -Eo '(http|https)://[^/"]+'
 wget -qO- https://stackoverflow.com/ | grep -Eo "(http|https)://[a-zA-Z0-9./?=_-]*" | sort -u
+wget -qO- https://www.google.com | grep -Po '(?<=href=")[^"]*(?=")'
+wget -qO- google.com | tr \" \\n | grep https\*://
+wget -qO- google.com | sed '/\n/P;//!s|<a[^>]*\(https*://[^/"]*\)|\n\1\n|;D'
 ```
