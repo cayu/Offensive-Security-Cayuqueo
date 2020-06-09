@@ -15,11 +15,35 @@ wget -qO- google.com | tr \" \\n | grep https\*://
 wget -qO- google.com | sed '/\n/P;//!s|<a[^>]*\(https*://[^/"]*\)|\n\1\n|;D'
 ```
 ### Ejemplos de ejecución de CURL
-Subir una imagen a un formulario, en el campo img_avatar
-```shell
-curl -F 'img_avatar=@/home/petehouston/hello.txt' http://localhost/upload
-```
 Obtener los encabezados HTTP de una url
 ```shell
 curl -I https://www.google.com
+```
+Medir el tiempo de ejecución de curl
+```shell
+curl -w "%{time_total}\n" -o /dev/null -s http://www.google.com
+```
+Obtener datos por GET
+```shell
+curl --request GET --url 'http://localhost:8080/get?foo=bar&foz=baz'
+```
+Enviar datos por POST
+```shell
+curl --data "param1=test1&param2=test2" http://test.com
+```
+Enviar datos por PUT
+```shell
+curl -X PUT -H "Content-Type: multipart/form-data;" -F "key1=val1" "YOUR_URI"
+```
+Enviando datos por PUST como json
+```shell
+curl -X PUT -H "Content-Type: application/json" -d '{"key1":"value"}' "YOUR_URI"
+```
+Enviando un archivo por a POST request:
+```shell
+curl -X POST "YOUR_URI" -F 'file=@/file-path.csv'
+```
+Subir una imagen a un formulario, en el campo img_avatar
+```shell
+curl -F 'img_avatar=@/home/petehouston/hello.txt' http://localhost/upload
 ```
