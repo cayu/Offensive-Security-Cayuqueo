@@ -6,7 +6,7 @@ Ejecutar nbtscan sobre una lista de direcciones ip :
 ```shell
 awk '{print $1}' < ips_smb.txt | while read ip; do nbtscan -r $ip >> salida_smb.txt ; done
 ```
-Extraer lo links presentes en el HTML de una URL :
+Extraer los links presentes en el HTML de una URL :
 ```shell
 wget -qO- http://google.com/ | grep -Eoi '<a [^>]+>' |  grep -Eo 'href="[^\"]+"' |  grep -Eo '(http|https)://[^/"]+'
 wget -qO- https://stackoverflow.com/ | grep -Eo "(http|https)://[a-zA-Z0-9./?=_-]*" | sort -u
