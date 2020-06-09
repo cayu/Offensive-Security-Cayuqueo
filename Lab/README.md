@@ -2,15 +2,24 @@
 Estos son algunos de los scripts que arme para el laboratorio de OSCP, alguno te los piden realizar por las tareas, otros los armé por necesidad.
 ## Códigos simples
 
-Ejecutar nbtscan sobre una lista de direcciones ip :
+### Ejecutar un comando sobre una lista de direcciones ip :
 ```shell
 awk '{print $1}' < ips_smb.txt | while read ip; do nbtscan -r $ip >> salida_smb.txt ; done
 ```
-Extraer los links presentes en el HTML de una URL :
+### Extraer los links presentes en el HTML de una URL :
 ```shell
 wget -qO- http://google.com/ | grep -Eoi '<a [^>]+>' |  grep -Eo 'href="[^\"]+"' |  grep -Eo '(http|https)://[^/"]+'
 wget -qO- https://stackoverflow.com/ | grep -Eo "(http|https)://[a-zA-Z0-9./?=_-]*" | sort -u
 wget -qO- https://www.google.com | grep -Po '(?<=href=")[^"]*(?=")'
 wget -qO- google.com | tr \" \\n | grep https\*://
 wget -qO- google.com | sed '/\n/P;//!s|<a[^>]*\(https*://[^/"]*\)|\n\1\n|;D'
+```
+### Ejemplos de ejecución de CURL
+Subir una imagen a un formulario, en el campo img_avatar
+```shell
+curl -F 'img_avatar=@/home/petehouston/hello.txt' http://localhost/upload
+```
+Obtener los encabezados HTTP de una url
+```shell
+curl -I https://www.google.com
 ```
