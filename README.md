@@ -1,7 +1,7 @@
 # OSCP-Scripts
 Scripts usados en mi formación OSCP
 
-##Toma de notas
+## Toma de notas
 
 Al comenzar mi primer laboratorio de OSCP y mi primer intento de examen, lo que hice primero fue leer el manual provisto.
 Como punto mas impoartente fue definir una aplicación para toma de notas rápidas. Por recomendación de grupos y fotos utilicé Cherrytree para la toma de notas, con estas plantillas fantásticas :
