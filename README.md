@@ -1,6 +1,7 @@
 # OSCP-Scripts
 <img src="Images/wenufoye.png" style="float: left; margin-right: 10px;" />
 Scripts usados en mi formación OSCP
+
 ## Toma de notas
 
 Al comenzar mi primer laboratorio de OSCP y mi primer intento de examen, lo que hice primero fue leer el manual provisto.
