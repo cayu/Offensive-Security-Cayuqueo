@@ -12,6 +12,10 @@ Como punto mas impoartente fue definir una aplicación para toma de notas rápid
 
 También estuve realizando modificaciones al script [cherrycon.py](https://github.com/DriftSec/AutoRecon-OSCP/blob/master/cherrycon.py) que viene del proyecto [AutoRecon-OSCP](https://github.com/DriftSec/AutoRecon-OSCP) que me ayudó mucho a documentar.
 
+Para la primer edición de mi OSCP utilicé estas plantillas, que me ayudaron mucho tanto para el LAB como para el examen y me dieron una muy buena orientación de como debería presentar el reporte.
+
+- https://github.com/whoisflynn/OSCP-Exam-Report-Template
+
 Al iniciar mi segundo laboratorio para prepararme a dar el nuevo intento de examen y por ver la recomendación en Twitter de [@TJ_Null](https://twitter.com/TJ_Null), decidí comenzar a utilizar [Joplin](https://joplinapp.org/). Al principio no me agradó visualmente la aplicación, pero mas por costumbre que por otra cosa, pero esta muy buena. Además el usuario [@TJ_Null](https://github.com/tjnull/TJ-JPT) publicó una plantilla muy buena en su repositorio, la cual modifiqué para mis necesidades.
 
 - https://github.com/tjnull/TJ-JPT
@@ -21,9 +25,6 @@ Además [Joplin](https://joplinapp.org/) soporta syntaxis [Markdown](https://gui
 
 Para generar las tablas de reconocimiento utilicé [nmap2md](https://github.com/vdjagilev/nmap2md), tomanba la salida full scan de [AutoRecon-OSCP](https://github.com/DriftSec/AutoRecon-OSCP) y copiaba y pegaba.
 
-Para la primer edición de mi OSCP utilicé estas plantillas, que me ayudaron mucho tanto para el LAB como para el examen y me dieron una muy buena orientación de como debería presentar el reporte.
-
-- https://github.com/whoisflynn/OSCP-Exam-Report-Template
 
 ## Detalles del examen
 
