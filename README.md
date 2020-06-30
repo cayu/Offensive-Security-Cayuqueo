@@ -1,6 +1,6 @@
 # OSCP-Scripts
 Scripts usados en mi formación OSCP
-
+ ![Mapuche](/Images/wenufoye.png)
 ## Toma de notas
 
 Al comenzar mi primer laboratorio de OSCP y mi primer intento de examen, lo que hice primero fue leer el manual provisto.
