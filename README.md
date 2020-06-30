@@ -28,7 +28,7 @@ Para generar las tablas de reconocimiento utilicé [nmap2md](https://github.com/
 
 ## Detalles del examen
 
-Debido a las [restrincciones en el examen](https://support.offensive-security.com/oscp-exam-guide/#exam-restrictions), para esta segunda etapa del OSCP, voy a centrarme a programar mas scrtips y utilizar herramientas manuales.
+Debido a las [restrincciones en el examen](https://support.offensive-security.com/oscp-exam-guide/#exam-restrictions), para esta segunda etapa del OSCP, voy a centrarme a programar mas scripts y utilizar herramientas manuales.
 
 ## Donde busqué info
 
