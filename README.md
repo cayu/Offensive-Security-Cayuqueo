@@ -1,8 +1,8 @@
 # OSCP-Scripts
 Scripts usados en mi formación OSCP
 
-Toma de notas
-------
+##Toma de notas
+
 Al comenzar mi primer laboratorio de OSCP y mi primer intento de examen, lo que hice primero fue leer el manual provisto.
 Como punto mas impoartente fue definir una aplicación para toma de notas rápidas. Por recomendación de grupos y fotos utilicé Cherrytree para la toma de notas, con estas plantillas fantásticas :
 
@@ -24,10 +24,10 @@ Para la primer edición de mi OSCP utilicé estas plantillas, que me ayudaron mu
 
 - https://github.com/whoisflynn/OSCP-Exam-Report-Template
 
-Detalles del examen
-------
+## Detalles del examen
+
 Debido a las [restrincciones en el examen](https://support.offensive-security.com/oscp-exam-guide/#exam-restrictions), para esta segunda etapa del OSCP, voy a centrarme a programar mas scrtips y utilizar herramientas manuales.
 
-Donde busqué info
-------
+## Donde busqué info
+
 - https://github.com/anandkumar11u/OSCP-60days
