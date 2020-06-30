@@ -1,5 +1,5 @@
 # OSCP-Scripts
-<img src="Images/wenufoye.png)" style="float: left; margin-right: 10px;" />
+<img src="Images/wenufoye.png" style="float: left; margin-right: 10px;" />
 Scripts usados en mi formación OSCP
 ## Toma de notas
 
