@@ -93,7 +93,7 @@ Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 #### TRYHACKME
 Mi perfil de usuario : https://tryhackme.com/p/cayu
 ##### Rooms
-- [he Cod Caper](https://tryhackme.com/room/thecodcaper)
+- [The Cod Caper](https://tryhackme.com/room/thecodcaper)
 - [Brainpan 1](https://tryhackme.com/room/brainpan)
 - [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 ##### Walkthrough
