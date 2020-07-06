@@ -93,7 +93,9 @@ Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 #### TRYHACKME
 Mi perfil de usuario : https://tryhackme.com/p/cayu
 ##### Rooms
-- https://tryhackme.com/room/thecodcaper
+- [he Cod Caper](https://tryhackme.com/room/thecodcaper)
+- [Brainpan 1](https://tryhackme.com/room/brainpan)
+- [Sudo Buffer Overflow](https://tryhackme.com/room/sudovulnsbof)
 ##### Walkthrough
 - https://medium.com/@ratiros01/tryhackme-agent-sudo-30bc1c2b1561
 - https://medium.com/@wisdomgoody/understanding-how-to-start-hacking-with-tryhackme-kenobi-write-up-cc356c314703
