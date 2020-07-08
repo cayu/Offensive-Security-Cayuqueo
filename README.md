@@ -47,6 +47,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://github.com/justinsteven/dostackbufferoverflowgood
 - https://guide.offsecnewbie.com/buffer-overflow
 - https://www.udemy.com/course/practical-ethical-hacking/
+- https://medium.com/@dericksiby94/buffer-overflow-attack-c8f4ad1b04b0 | https://github.com/Derick8/bufferoverflow_attack
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
 ### Escalamiento
@@ -100,6 +101,6 @@ Mi perfil de usuario : https://tryhackme.com/p/cayu
 - https://medium.com/@ratiros01/tryhackme-agent-sudo-30bc1c2b1561
 - https://medium.com/@wisdomgoody/understanding-how-to-start-hacking-with-tryhackme-kenobi-write-up-cc356c314703
 - https://medium.com/@ratiros01/tryhackme-mr-robot-ctf-2a962f34aa29
-- https://www.youtube.com/watch?v=2ZZPwwXOH08 https://www.youtube.com/watch?v=ZG2fXDusbDw
+- https://www.youtube.com/watch?v=2ZZPwwXOH08 | https://www.youtube.com/watch?v=ZG2fXDusbDw
 #### ATTACHDEFENSE
 - https://attackdefense.pentesteracademy.com/
