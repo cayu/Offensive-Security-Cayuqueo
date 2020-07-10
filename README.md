@@ -79,6 +79,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://hmxsecurity.com/2020/05/25/my-oscp-journey/
 - https://medium.com/@wisdomgoody/review-oscp-path-tryhackme-e846c01ce47
 - https://github.com/anandkumar11u/OSCP-60days
+- https://oscp.infosecsanyam.in/
 ### LABS ONLINE
 #### VULNHUB
 - https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
