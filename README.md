@@ -119,5 +119,14 @@ Mi perfil de usuario : https://tryhackme.com/p/cayu
 - https://medium.com/@wisdomgoody/understanding-how-to-start-hacking-with-tryhackme-kenobi-write-up-cc356c314703
 - https://medium.com/@ratiros01/tryhackme-mr-robot-ctf-2a962f34aa29
 - https://www.youtube.com/watch?v=2ZZPwwXOH08 | https://www.youtube.com/watch?v=ZG2fXDusbDw
+###### OSCP PATH
+- https://www.youtube.com/watch?v=4kAN7zNE7jo
+- https://www.youtube.com/watch?v=G1GWOOu6SxI
+- https://www.youtube.com/watch?v=Zz1fts24THc
+- https://www.youtube.com/watch?v=H1Hf5but0b8
+- https://www.youtube.com/watch?v=oLsWOvzL3IE
+- https://www.youtube.com/watch?v=VFAs8z52pB4
+- https://www.youtube.com/watch?v=QefguJeD5II
+- https://www.youtube.com/watch?v=geZIbMTRRNQ
 #### ATTACHDEFENSE
 - https://attackdefense.pentesteracademy.com/
