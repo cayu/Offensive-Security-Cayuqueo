@@ -52,6 +52,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.youtube.com/watch?v=PQJn4s4E8Os&t=142s
 #### Vulnserver
 - https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite
+- https://g0blin.co.uk/smashthetux-vulnhub-writeup/
 - https://www.youtube.com/watch?v=o-1qYzAqM_Q
 - https://www.youtube.com/watch?v=geZIbMTRRNQ
 - https://www.youtube.com/watch?v=qjWs___hQcE
