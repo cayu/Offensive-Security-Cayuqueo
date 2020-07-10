@@ -54,12 +54,12 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite
 - https://www.youtube.com/watch?v=o-1qYzAqM_Q
 - https://www.youtube.com/watch?v=geZIbMTRRNQ
-https://www.youtube.com/watch?v=qjWs___hQcE
-https://www.youtube.com/watch?v=UVtXaDtIQpg
-https://www.youtube.com/watch?v=22XxOFa_HI8
-https://www.youtube.com/watch?v=AP-vk3Q9HCY
-https://www.youtube.com/watch?v=mNoTdCdAHjw
-https://www.youtube.com/watch?v=8QrfzQOWYx8
+- https://www.youtube.com/watch?v=qjWs___hQcE
+- https://www.youtube.com/watch?v=UVtXaDtIQpg
+- https://www.youtube.com/watch?v=22XxOFa_HI8
+- https://www.youtube.com/watch?v=AP-vk3Q9HCY
+- https://www.youtube.com/watch?v=mNoTdCdAHjw
+- https://www.youtube.com/watch?v=8QrfzQOWYx8
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
