@@ -51,12 +51,20 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 #### Vulnserver
 - https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite
 - https://www.youtube.com/watch?v=o-1qYzAqM_Q
+- https://www.youtube.com/watch?v=geZIbMTRRNQ
+https://www.youtube.com/watch?v=qjWs___hQcE
+https://www.youtube.com/watch?v=UVtXaDtIQpg
+https://www.youtube.com/watch?v=22XxOFa_HI8
+https://www.youtube.com/watch?v=AP-vk3Q9HCY
+https://www.youtube.com/watch?v=mNoTdCdAHjw
+https://www.youtube.com/watch?v=8QrfzQOWYx8
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
 ### Escalamiento
 - https://github.com/sagishahar/lpeworkshop
 - https://github.com/diego-treitos/linux-smart-enumeration
+- https://payatu.com/guide-linux-privilege-escalation
 - https://medium.com/@parvezahmad90/windows-privilege-escalation-insecure-service-registry-to-system-shell-step-by-step-88776c712c17
 - https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 ### Reviews
