@@ -50,6 +50,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://medium.com/@dericksiby94/buffer-overflow-attack-c8f4ad1b04b0 | https://github.com/Derick8/bufferoverflow_attack
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
+- https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
 ### Escalamiento
 - https://github.com/sagishahar/lpeworkshop
 - https://github.com/diego-treitos/linux-smart-enumeration
