@@ -48,6 +48,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://guide.offsecnewbie.com/buffer-overflow
 - https://www.udemy.com/course/practical-ethical-hacking/
 - https://medium.com/@dericksiby94/buffer-overflow-attack-c8f4ad1b04b0 | https://github.com/Derick8/bufferoverflow_attack
+- https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
 #### Vulnserver
 - https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite
 - https://www.youtube.com/watch?v=o-1qYzAqM_Q
