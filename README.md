@@ -65,10 +65,13 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
 ### Escalamiento
 - https://github.com/sagishahar/lpeworkshop
+- https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+#### Linux
 - https://github.com/diego-treitos/linux-smart-enumeration
 - https://payatu.com/guide-linux-privilege-escalation
+- https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+#### Windows
 - https://medium.com/@parvezahmad90/windows-privilege-escalation-insecure-service-registry-to-system-shell-step-by-step-88776c712c17
-- https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 ### Reviews
 - https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
 - https://atom.hackstreetboys.ph/hacking-oscp/
