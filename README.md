@@ -109,7 +109,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.youtube.com/watch?v=AP-vk3Q9HCY
 - https://www.youtube.com/watch?v=mNoTdCdAHjw
 - https://www.youtube.com/watch?v=8QrfzQOWYx8
-- https://www.youtube.com/watch?v=Qn2cKYZ6kBI
+- [Kioptrix Level 1 CTF Walkthrough - Boot-To-Root](https://www.youtube.com/watch?v=Qn2cKYZ6kBI)
 #### HACKTHEBOX
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 ##### Walkthrough
