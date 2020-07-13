@@ -51,7 +51,10 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
 - https://www.youtube.com/watch?v=PQJn4s4E8Os&t=142s
 - https://www.coalfire.com/The-Coalfire-Blog/January-2020/The-Basics-of-Exploit-Development-1
-- https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite
+#### Vulnserver
+- [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
+- [Vulnserver Exploiting GMON with SEH Overwrite](https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite)
+- [Walkthrough: SEH-Based Stack Overflow Exploit on Windows Server 2008](https://www.youtube.com/watch?v=UVtXaDtIQpg)
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
@@ -103,8 +106,6 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://g0blin.co.uk/smashthetux-vulnhub-writeup/
 - https://www.youtube.com/watch?v=o-1qYzAqM_Q
 - https://www.youtube.com/watch?v=qjWs___hQcE
-- https://www.youtube.com/watch?v=UVtXaDtIQpg
-- https://www.youtube.com/watch?v=22XxOFa_HI8
 - https://www.youtube.com/watch?v=AP-vk3Q9HCY
 - https://www.youtube.com/watch?v=mNoTdCdAHjw
 - https://www.youtube.com/watch?v=8QrfzQOWYx8
