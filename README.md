@@ -102,7 +102,6 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 ##### Walkthrough
 - https://g0blin.co.uk/smashthetux-vulnhub-writeup/
 - https://www.youtube.com/watch?v=o-1qYzAqM_Q
-- https://www.youtube.com/watch?v=geZIbMTRRNQ
 - https://www.youtube.com/watch?v=qjWs___hQcE
 - https://www.youtube.com/watch?v=UVtXaDtIQpg
 - https://www.youtube.com/watch?v=22XxOFa_HI8
