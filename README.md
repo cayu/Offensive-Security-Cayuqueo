@@ -51,6 +51,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
 - https://www.youtube.com/watch?v=PQJn4s4E8Os&t=142s
 - https://www.coalfire.com/The-Coalfire-Blog/January-2020/The-Basics-of-Exploit-Development-1
+- https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
@@ -99,7 +100,6 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Exploit-Exercises: Protostar (v2)](https://www.vulnhub.com/entry/exploit-exercises-protostar-v2,32/)
 - [SmashTheTux: 1.0.1](https://www.vulnhub.com/entry/smashthetux-101,138/)
 ##### Walkthrough
-- https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite
 - https://g0blin.co.uk/smashthetux-vulnhub-writeup/
 - https://www.youtube.com/watch?v=o-1qYzAqM_Q
 - https://www.youtube.com/watch?v=geZIbMTRRNQ
@@ -112,6 +112,8 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.youtube.com/watch?v=Qn2cKYZ6kBI
 #### HACKTHEBOX
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
+##### Walkthrough
+- [Netmon | Windows Privilege Escalation | enum & exploitation](https://www.youtube.com/watch?v=nMIhJtIHZNY)
 #### TRYHACKME
 Mi perfil de usuario : https://tryhackme.com/p/cayu
 ##### Rooms
