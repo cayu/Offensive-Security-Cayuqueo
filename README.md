@@ -114,6 +114,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 ##### Walkthrough
 - [Netmon | Windows Privilege Escalation | enum & exploitation](https://www.youtube.com/watch?v=nMIhJtIHZNY)
+- [Devel | Windows Privilege Escalation Using Exploit Suggestor | Metasploit](https://www.youtube.com/watch?v=RXvUnQDuVqI)
 #### TRYHACKME
 Mi perfil de usuario : https://tryhackme.com/p/cayu
 ##### Rooms
