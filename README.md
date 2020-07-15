@@ -51,6 +51,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
 - https://www.youtube.com/watch?v=PQJn4s4E8Os&t=142s
 - https://www.coalfire.com/The-Coalfire-Blog/January-2020/The-Basics-of-Exploit-Development-1
+- https://www.youtube.com/playlist?list=PLuW212y8VcR0IuQZdFwfrZJXgMA8sF7Qn
 #### Vulnserver
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
 - [Vulnserver Exploiting GMON with SEH Overwrite](https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite)
