@@ -1,11 +1,11 @@
 # Lab OSCP
 Estos son algunos de los scripts que arme para el laboratorio de OSCP, alguno te los piden realizar por las tareas, otros los armé por necesidad.
 ## Códigos simples
-
 ### Ejecutar un comando sobre una lista de direcciones ip :
 ```shell
 awk '{print $1}' < ips_smb.txt | while read ip; do nbtscan -r $ip >> salida_smb.txt ; done
 ```
+#### Obtención de datos por medio de HTTP
 ### Extraer los links presentes en el HTML de una URL :
 ```shell
 wget -qO- http://google.com/ | grep -Eoi '<a [^>]+>' |  grep -Eo 'href="[^\"]+"' |  grep -Eo '(http|https)://[^/"]+'
@@ -46,4 +46,11 @@ curl -X POST "YOUR_URI" -F 'file=@/file-path.csv'
 Subir una imagen a un formulario, en el campo img_avatar
 ```shell
 curl -F 'img_avatar=@/home/petehouston/hello.txt' http://localhost/upload
+```
+#### Publicación de datos por medio de HTTP
+Servidor HTTP rápido
+```
+python -m SimpleHTTPServer
+
+python -m http.server
 ```
