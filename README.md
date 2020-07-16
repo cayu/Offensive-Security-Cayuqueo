@@ -38,8 +38,9 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://ohmyz.sh/
 - https://github.com/saberzaid/SecLists
 ### Report
-- https://github.com/noraj/OSCP-Exam-Report-Template-Markdown
-- https://github.com/tjnull/TJ-JPT
+- [OSCP Exam Report Template in Markdown](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown) - No esta actualizado a la edición 2020
+- [Project TJ-JPT](https://github.com/tjnull/TJ-JPT) - Es el template mas oficial por decirle de alguna forma
+- [OSCP Report Templates](https://github.com/whoisflynn/OSCP-Exam-Report-Template) - Muy bueno, en formato Word, si no te das maña con un gestor de notas va
 ### BoF
 - Introduction to Exploit Development (Buffer Overflows) - https://www.udemy.com/course/practical-ethical-hacking/
 - https://gist.github.com/apolloclark/6cffb33f179cc9162d0a
