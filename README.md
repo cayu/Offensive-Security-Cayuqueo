@@ -56,6 +56,12 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
 - [Vulnserver Exploiting GMON with SEH Overwrite](https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite)
 - [Walkthrough: SEH-Based Stack Overflow Exploit on Windows Server 2008](https://www.youtube.com/watch?v=UVtXaDtIQpg)
+- [Vulnserver GMON Command Walkthrough](https://www.youtube.com/watch?v=8QrfzQOWYx8)
+- [Vulnserver TRUN Command Walkthrough](https://www.youtube.com/watch?v=mNoTdCdAHjw)
+- [Video 3 - Exploit Remoto - vulnserver](https://www.youtube.com/watch?v=AP-vk3Q9HCY)
+- [Vulnserver Buffer Overflow Exploit Development with Kali Linux](https://www.youtube.com/watch?v=qjWs___hQcE)
+- [VULNSERVER Exploit: HTER w/ Assembly & Shellcode](https://www.youtube.com/watch?v=o-1qYzAqM_Q)
+- [SmashTheTux VulnHub Writeup](https://g0blin.co.uk/smashthetux-vulnhub-writeup/)
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
@@ -104,13 +110,13 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Exploit-Exercises: Protostar (v2)](https://www.vulnhub.com/entry/exploit-exercises-protostar-v2,32/)
 - [SmashTheTux: 1.0.1](https://www.vulnhub.com/entry/smashthetux-101,138/)
 ##### Walkthrough
-- https://g0blin.co.uk/smashthetux-vulnhub-writeup/
-- https://www.youtube.com/watch?v=o-1qYzAqM_Q
-- https://www.youtube.com/watch?v=qjWs___hQcE
-- https://www.youtube.com/watch?v=AP-vk3Q9HCY
-- https://www.youtube.com/watch?v=mNoTdCdAHjw
-- https://www.youtube.com/watch?v=8QrfzQOWYx8
 - [Kioptrix Level 1 CTF Walkthrough - Boot-To-Root](https://www.youtube.com/watch?v=Qn2cKYZ6kBI)
+- [VulnHub RickdiculouslyEasy 1 Write-Up (OSCP)](https://www.youtube.com/watch?v=fbg9Jr_llxY&feature=youtu.be)
+- [VulnHub Golden Eye -1 Write-up (OSCP)](https://www.youtube.com/watch?v=IzbseDtSYjQ)
+- [Vulnhub NullByte:1 Write-up (OSCP)](https://www.youtube.com/watch?v=IzbseDtSYjQ)
+- [Vulnhub Bob Write-up (OSCP)](https://www.youtube.com/watch?v=9Vz38znh2s0)
+- [Vulnhub Toppo-1 Write-up (OSCP)](https://www.youtube.com/watch?v=8uhJBvDru0s)
+- [VulnHub Weakness Write-up (OSCP)](https://www.youtube.com/watch?v=48RW7ILbe0M)
 #### HACKTHEBOX
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 ##### Walkthrough
