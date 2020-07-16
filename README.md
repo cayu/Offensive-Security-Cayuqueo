@@ -120,6 +120,9 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Vulnhub Bob Write-up (OSCP)](https://www.youtube.com/watch?v=9Vz38znh2s0)
 - [Vulnhub Toppo-1 Write-up (OSCP)](https://www.youtube.com/watch?v=8uhJBvDru0s)
 - [VulnHub Weakness Write-up (OSCP)](https://www.youtube.com/watch?v=48RW7ILbe0M)
+- [Kioptrix level 1](https://ferreirasc.github.io/post/kioptrix_level_1/)
+- [Kioptrix level 1.1](https://ferreirasc.github.io/post/kioptrix_level_1_1/)
+- [Kioptrix level 1.2](https://ferreirasc.github.io/post/kioptrix_level_1_2/)
 #### HACKTHEBOX
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 ##### Walkthrough
