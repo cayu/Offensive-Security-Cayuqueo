@@ -75,13 +75,14 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
 #### Windows
 - https://medium.com/@parvezahmad90/windows-privilege-escalation-insecure-service-registry-to-system-shell-step-by-step-88776c712c17
-### Reviews
+### Reviews y notas
 - https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html
 - https://atom.hackstreetboys.ph/hacking-oscp/
 - https://hmxsecurity.com/2020/05/25/my-oscp-journey/
 - https://medium.com/@wisdomgoody/review-oscp-path-tryhackme-e846c01ce47
 - https://github.com/anandkumar11u/OSCP-60days
 - https://oscp.infosecsanyam.in/
+- [Hack The Box OSCP Preparation](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/)
 ### LABS ONLINE
 #### VULNHUB
 - https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
