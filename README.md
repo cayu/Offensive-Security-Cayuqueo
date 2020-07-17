@@ -108,6 +108,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Kioptrix: Level 1.1 (#2)](https://www.vulnhub.com/entry/kioptrix-level-11-2,23/)
 - [Kioptrix: Level 1.2 (#3)](https://www.vulnhub.com/entry/kioptrix-level-12-3,24/)
 - [Kioptrix: Level 1.3 (#4)](https://www.vulnhub.com/entry/kioptrix-level-13-4,25/)
+- [Panabee: 1](https://www.vulnhub.com/entry/panabee-1,502/)
 - [FristiLeaks: 1.3](https://www.vulnhub.com/entry/fristileaks-13,133/)
 - [Stapler: 1](https://www.vulnhub.com/entry/stapler-1,150/)
 - [PwnLab: init](https://www.vulnhub.com/entry/pwnlab-init,158/)
@@ -139,6 +140,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Kioptrix level 1](https://ferreirasc.github.io/post/kioptrix_level_1/)
 - [Kioptrix level 1.1](https://ferreirasc.github.io/post/kioptrix_level_1_1/)
 - [Kioptrix level 1.2](https://ferreirasc.github.io/post/kioptrix_level_1_2/)
+- [Panabee: 1](https://medium.com/@muhammad.aliakbr98/vulnhub-panabee1-36e8f360f92e)
 #### HACKTHEBOX
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 ##### Walkthrough
