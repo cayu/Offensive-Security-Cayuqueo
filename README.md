@@ -54,6 +54,9 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.coalfire.com/The-Coalfire-Blog/January-2020/The-Basics-of-Exploit-Development-1
 - [Desarrollo de Exploits](https://www.youtube.com/playlist?list=PLuW212y8VcR0IuQZdFwfrZJXgMA8sF7Qn)
 - [HackemCON: Hacking con Buffer Overflow (OSCP Style)](https://www.youtube.com/watch?v=gV1V7qwf2Xg)
+- https://raw.githubusercontent.com/m0nad/Papers/master/buffer_overflow_iniciantes.txt
+- https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1.html
+- https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
 #### Vulnserver
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
 - [Vulnserver Exploiting GMON with SEH Overwrite](https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite)
