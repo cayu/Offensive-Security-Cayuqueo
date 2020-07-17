@@ -6,6 +6,13 @@ Scripts usados en mi formación OSCP
 
 ---
 
+## Recursos Oficiales
+
+- Offensive Security Community portal
+- Offensive Security Forums
+- [Offensive Security Rainbow Cracker](https://cracker.offensive-security.com/)
+- [METASPLOIT UNLEASHED – FREE ETHICAL HACKING COURSE](https://www.offensive-security.com/metasploit-unleashed/)
+
 ## Toma de notas
 
 Al comenzar mi primer laboratorio de OSCP y mi primer intento de examen, lo que hice primero fue leer el manual provisto.
