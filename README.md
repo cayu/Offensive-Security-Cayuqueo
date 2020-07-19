@@ -130,6 +130,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [IMF: 1](https://www.vulnhub.com/entry/imf-1,162/)
 - [Exploit-Exercises: Protostar (v2)](https://www.vulnhub.com/entry/exploit-exercises-protostar-v2,32/)
 - [SmashTheTux: 1.0.1](https://www.vulnhub.com/entry/smashthetux-101,138/)
+- [Hackxor: 1](https://www.vulnhub.com/entry/hackxor-1,19/)
 ##### Walkthrough
 - [Kioptrix Level 1 CTF Walkthrough - Boot-To-Root](https://www.youtube.com/watch?v=Qn2cKYZ6kBI)
 - [VulnHub RickdiculouslyEasy 1 Write-Up (OSCP)](https://www.youtube.com/watch?v=fbg9Jr_llxY&feature=youtu.be)
