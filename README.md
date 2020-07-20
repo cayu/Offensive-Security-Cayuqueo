@@ -164,6 +164,7 @@ Mi perfil de usuario : https://tryhackme.com/p/cayu
 - [Wonderland](https://aniqfakhrul.com/index.php/2020/06/07/tryhackme-wonderland/)
 - [Break Out The Cage](https://aniqfakhrul.com/index.php/2020/06/27/break-out-the-cage-tryhackme/)
 - [Year of the Fox](https://medium.com/@muhammad.aliakbr98/tryhackme-year-of-the-fox-631c7752fab2)
+- [Brainpan](https://n00bmasterr.github.io/writeup/brainpan.html)
 - https://www.youtube.com/watch?v=2ZZPwwXOH08 | https://www.youtube.com/watch?v=ZG2fXDusbDw
 ###### OSCP PATH
 - https://www.youtube.com/watch?v=4kAN7zNE7jo&list=PLwDy-UjR-HbujHwJHvuTLKEdq0kjaHi7R
