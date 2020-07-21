@@ -69,6 +69,8 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [The Cyber Mentor - Buffer Overflows Made Easy](https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 - [The Basics of Exploit Development 1: Win32 Buffer Overflows](https://www.coalfire.com/The-Coalfire-Blog/January-2020/The-Basics-of-Exploit-Development-1)
 - [Buffer Overflows para Iniciantes](https://raw.githubusercontent.com/m0nad/Papers/master/buffer_overflow_iniciantes.txt)
+- [Ekoparty #UniTalks Perú | Erick Olortegui: Init 1 - Buffer Overflow](https://www.youtube.com/watch?v=CiixUdI7KTI)
+- Julio Ureña Stach Buffer Overflow - https://www.youtube.com/watch?v=7KZ5LCFr6Sw | https://www.youtube.com/watch?v=eajvZQNoUq0
 - https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1.html
 - https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
 - https://medium.com/@pswalia2u/r-3-4-4-buffer-overflow-vanilla-eip-overwrite-c205c2d3b1f7
