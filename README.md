@@ -86,8 +86,9 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://github.com/PowerShellMafia/PowerSploit
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
 ### Escalamiento
-- https://github.com/sagishahar/lpeworkshop
-- https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+- [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
+- [PEASS - Privilege Escalation Awesome Scripts SUITE](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite)
+- [Windows - Privilege Escalation](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md)
 #### Linux
 - https://github.com/diego-treitos/linux-smart-enumeration
 - https://payatu.com/guide-linux-privilege-escalation
