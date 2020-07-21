@@ -55,19 +55,20 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 ### Aplicaciones Web
 - [Local File Inclusion](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/File%20Inclusion)
 ### BoF
-- Introduction to Exploit Development (Buffer Overflows) - https://www.udemy.com/course/practical-ethical-hacking/
-- https://gist.github.com/apolloclark/6cffb33f179cc9162d0a
-- https://github.com/gh0x0st/Buffer_Overflow
-- https://github.com/justinsteven/dostackbufferoverflowgood
-- https://guide.offsecnewbie.com/buffer-overflow
-- https://www.udemy.com/course/practical-ethical-hacking/
-- https://medium.com/@dericksiby94/buffer-overflow-attack-c8f4ad1b04b0 | https://github.com/Derick8/bufferoverflow_attack
-- https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G
+- [UDEMY : Introduction to Exploit Development (Buffer Overflows)](https://www.udemy.com/course/practical-ethical-hacking)
+- [UDEMY : Ethical Hacking, Penetration Testing: Buffer Overflow](https://www.udemy.com/course/ethical-hacking-penetration-testing-buffer-overflow-enbd)
+- [UDEMY : Immunity Debugger for Exploit Devs - YCSC Lab Essentials](https://www.udemy.com/course/immunity-debugger-yaksas-csc-lab-essentials)
+- [Buffer Overflow Tutorial](https://gist.github.com/apolloclark/6cffb33f179cc9162d0a)
+- [Don't let buffer overflows overflow your mind](https://github.com/gh0x0st/Buffer_Overflow)
+- [do stack bufferoverflow good](https://github.com/justinsteven/dostackbufferoverflowgood)
+- [Rowbot's PenTest Notes - Buffer Overflow](https://guide.offsecnewbie.com/buffer-overflow)
 - [Buffer Overflow en Windows 32 bits - Desarrollo de un exploit con MiniShare 1.4.1](https://www.youtube.com/watch?v=PQJn4s4E8Os)
-- https://www.coalfire.com/The-Coalfire-Blog/January-2020/The-Basics-of-Exploit-Development-1
 - [Desarrollo de Exploits](https://www.youtube.com/playlist?list=PLuW212y8VcR0IuQZdFwfrZJXgMA8sF7Qn)
 - [HackemCON: Hacking con Buffer Overflow (OSCP Style)](https://www.youtube.com/watch?v=gV1V7qwf2Xg)
-- https://raw.githubusercontent.com/m0nad/Papers/master/buffer_overflow_iniciantes.txt
+- [Buffer Overflow attack](https://medium.com/@dericksiby94/buffer-overflow-attack-c8f4ad1b04b0) | https://github.com/Derick8/bufferoverflow_attack
+- [The Cyber Mentor - Buffer Overflows Made Easy](https://www.youtube.com/watch?v=qSnPayW6F7U&list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
+- [The Basics of Exploit Development 1: Win32 Buffer Overflows](https://www.coalfire.com/The-Coalfire-Blog/January-2020/The-Basics-of-Exploit-Development-1)
+- [Buffer Overflows para Iniciantes](https://raw.githubusercontent.com/m0nad/Papers/master/buffer_overflow_iniciantes.txt)
 - https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1.html
 - https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
 - https://medium.com/@pswalia2u/r-3-4-4-buffer-overflow-vanilla-eip-overwrite-c205c2d3b1f7
