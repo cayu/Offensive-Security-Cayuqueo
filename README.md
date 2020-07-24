@@ -4,6 +4,8 @@ Scripts usados en mi formación OSCP
 
 [![Twitter Badge](https://img.shields.io/badge/-@cayu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cayu)](https://twitter.com/cayu) [![Linkedin Badge](https://img.shields.io/badge/-sergiocayuqueo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiocayuqueo/)](https://www.linkedin.com/in/sergiocayuqueo/) [![Gmail Badge](https://img.shields.io/badge/-cayu@cayu.com.ar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cayu@cayu.com.ar)](mailto:cayu@cayu.com.ar)
 
+Voy a ir marcando los challenges :x: :heavy_check_mark: a medida los vaya realizando.
+
 ---
 
 ## Recursos Oficiales
