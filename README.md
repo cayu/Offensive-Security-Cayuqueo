@@ -150,6 +150,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Kioptrix level 1.1](https://ferreirasc.github.io/post/kioptrix_level_1_1/)
 - [Kioptrix level 1.2](https://ferreirasc.github.io/post/kioptrix_level_1_2/)
 - [Panabee: 1](https://medium.com/@muhammad.aliakbr98/vulnhub-panabee1-36e8f360f92e)
+- [VulnHub Derpnstink Write-up (OSCP)](https://www.youtube.com/watch?v=wowC71aM7Qc)
 #### HACKTHEBOX
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 ##### Walkthrough
