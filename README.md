@@ -158,6 +158,7 @@ Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
 - [Devel | Windows Privilege Escalation Using Exploit Suggestor | Metasploit](https://www.youtube.com/watch?v=RXvUnQDuVqI)
 - https://www.peerlyst.com/posts/how-to-break-into-sp-jerome-v1-0-1-machine-ctf-writeup-spirited-wolf
 - [Sauna [OSCP Style]](https://www.youtube.com/watch?v=3pnyfi8Fn6g)
+- [Hack the box-Cascade: An Active Directory Penetration Test](https://medium.com/@dericksiby94/hack-the-box-cascade-an-active-directory-penetration-test-a3d7ff7baaec)
 #### TRYHACKME
 Mi perfil de usuario : https://tryhackme.com/p/cayu
 ##### Rooms
