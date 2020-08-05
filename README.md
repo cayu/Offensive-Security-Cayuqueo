@@ -77,6 +77,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1.html
 - https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
 - https://medium.com/@pswalia2u/r-3-4-4-buffer-overflow-vanilla-eip-overwrite-c205c2d3b1f7
+- [OSCP Buffer Overflow Cheat Sheet](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow)
 #### Vulnserver
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
 - [Vulnserver Exploiting GMON with SEH Overwrite](https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite)
