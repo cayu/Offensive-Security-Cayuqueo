@@ -79,6 +79,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://medium.com/@pswalia2u/r-3-4-4-buffer-overflow-vanilla-eip-overwrite-c205c2d3b1f7
 - [OSCP Buffer Overflow Cheat Sheet](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow)
 #### Vulnserver
+- [Vulnserver](https://samsclass.info/127/proj/vuln-server.htm)
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
 - [Vulnserver Exploiting GMON with SEH Overwrite](https://anubissec.github.io/Vulnserver-Exploiting-GMON-SEH-Overwrite)
 - [Walkthrough: SEH-Based Stack Overflow Exploit on Windows Server 2008](https://www.youtube.com/watch?v=UVtXaDtIQpg)
@@ -88,6 +89,11 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Vulnserver Buffer Overflow Exploit Development with Kali Linux](https://www.youtube.com/watch?v=qjWs___hQcE)
 - [VULNSERVER Exploit: HTER w/ Assembly & Shellcode](https://www.youtube.com/watch?v=o-1qYzAqM_Q)
 - [SmashTheTux VulnHub Writeup](https://g0blin.co.uk/smashthetux-vulnhub-writeup/)
+#### Aplicaciones conocidas
+- [Minishare 1.4.1](https://www.exploit-db.com/exploits/636)
+- [Savant Web Server 3.1](https://www.exploit-db.com/exploits/10434)
+- [Freefloat FTP Server 1.0](https://www.exploit-db.com/exploits/40673)
+- [Core FTP Server 1.2](https://www.exploit-db.com/exploits/39480)
 ### PowerShell
 - https://github.com/PowerShellMafia/PowerSploit
 - https://www.offensive-security.com/offsec/kali-linux-powershell-pentesting/
