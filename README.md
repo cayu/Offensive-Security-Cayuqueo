@@ -147,6 +147,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [SmashTheTux: 1.0.1](https://www.vulnhub.com/entry/smashthetux-101,138/)
 - [Hackxor: 1](https://www.vulnhub.com/entry/hackxor-1,19/)
 - [Glasgow Smile: 1.1](https://www.vulnhub.com/entry/glasgow-smile-11,491/)
+- [LazySysAdmin: 1](https://www.vulnhub.com/entry/lazysysadmin-1,205/):heavy_check_mark:
 ##### Walkthrough
 - [Kioptrix Level 1 CTF Walkthrough - Boot-To-Root](https://www.youtube.com/watch?v=Qn2cKYZ6kBI)
 - [VulnHub RickdiculouslyEasy 1 Write-Up (OSCP)](https://www.youtube.com/watch?v=fbg9Jr_llxY&feature=youtu.be)
