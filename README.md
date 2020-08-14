@@ -187,6 +187,7 @@ Mi perfil de usuario : https://tryhackme.com/p/cayu
 - [Year of the Fox](https://medium.com/@muhammad.aliakbr98/tryhackme-year-of-the-fox-631c7752fab2)
 - [Brainpan](https://n00bmasterr.github.io/writeup/brainpan.html)
 - https://www.youtube.com/watch?v=2ZZPwwXOH08 | https://www.youtube.com/watch?v=ZG2fXDusbDw
+- [TryHackMe: Buffer Overflow Prep](https://medium.com/@muhammad.aliakbr98/tryhackme-buffer-overflow-prep-9b2ece17a13c)
 ###### OSCP PATH
 - https://www.youtube.com/watch?v=4kAN7zNE7jo&list=PLwDy-UjR-HbujHwJHvuTLKEdq0kjaHi7R
 #### ATTACHDEFENSE
