@@ -117,6 +117,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://oscp.infosecsanyam.in/
 - [Hack The Box OSCP Preparation](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/)
 - http://sejalivre.org/OSCP/index.html
+- [OSCP - Personal Notes](https://hackanythingfor.blogspot.com/2020/08/oscp-personal-notes.html)
 ### LABS ONLINE
 #### VULNHUB
 - https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
