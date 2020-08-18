@@ -90,6 +90,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Vulnserver Buffer Overflow Exploit Development with Kali Linux](https://www.youtube.com/watch?v=qjWs___hQcE)
 - [VULNSERVER Exploit: HTER w/ Assembly & Shellcode](https://www.youtube.com/watch?v=o-1qYzAqM_Q)
 - [SmashTheTux VulnHub Writeup](https://g0blin.co.uk/smashthetux-vulnhub-writeup/)
+- [Exploiting "Vulnerable Server" for Windows 7](https://samsclass.info/127/proj/vuln-server.htm)
 #### Aplicaciones conocidas
 - [Minishare 1.4.1](https://www.exploit-db.com/exploits/636)
 - [Savant Web Server 3.1](https://www.exploit-db.com/exploits/10434)
