@@ -80,6 +80,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - https://github.com/Tib3rius/Pentest-Cheatsheets/blob/master/exploits/buffer-overflows.rst
 - [OSCP Buffer Overflow Cheat Sheet](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow)
 - [Writing Exploits for Win32 Systems from Scratch](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2016/june/writing-exploits-for-win32-systems-from-scratch/)
+- [Writing a Simple Buffer Overflow Exploit](https://www.youtube.com/watch?v=oS2O75H57qU) | https://gist.github.com/LiveOverflow/5fa36bec51968de696b11d3548b02148
 #### Vulnserver
 - [Vulnserver](https://samsclass.info/127/proj/vuln-server.htm)
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
