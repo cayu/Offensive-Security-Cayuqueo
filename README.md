@@ -82,6 +82,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Writing Exploits for Win32 Systems from Scratch](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2016/june/writing-exploits-for-win32-systems-from-scratch/)
 - [Writing a Simple Buffer Overflow Exploit](https://www.youtube.com/watch?v=oS2O75H57qU) | https://gist.github.com/LiveOverflow/5fa36bec51968de696b11d3548b02148
 - [Hacker Course Buffer Overflow - A Practical Example (with Exploit)](https://www.youtube.com/watch?v=aEZKGW_VTd4)
+- [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
 #### Vulnserver
 - [Vulnserver](https://samsclass.info/127/proj/vuln-server.htm)
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
