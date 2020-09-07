@@ -143,7 +143,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Brainpan: 3](https://www.vulnhub.com/entry/brainpan-3,121/)
 - [Mr-Robot: 1](https://www.vulnhub.com/entry/mr-robot-1,151/)
 - [HackLAB: Vulnix](https://www.vulnhub.com/entry/hacklab-vulnix,48/)
-- [RickdiculouslyEasy: 1](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
+- [RickdiculouslyEasy: 1](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)https://www.youtube.com/watch?v=ukFC48bzVSM
 - [VulnOS: 2](https://www.vulnhub.com/entry/vulnos-2,147/)
 - [/dev/random: k2](https://www.vulnhub.com/entry/devrandom-k2,204/)
 - [/dev/random: Pipe](https://www.vulnhub.com/entry/devrandom-pipe,124/)
@@ -202,7 +202,7 @@ Mi perfil de usuario : https://tryhackme.com/p/cayu
 - https://www.youtube.com/watch?v=4kAN7zNE7jo&list=PLwDy-UjR-HbujHwJHvuTLKEdq0kjaHi7R
 ###### Throwback Network Labs - Attacking Windows Active Directory
 - https://tryhackme.com/network/throwback
-- [TryHackMe - Throwback - Attacking Windows Active Directory || Part One](https://www.youtube.com/watch?v=mQT38VR4boQ)
+- [TryHackMe - Throwback - Attacking Windows Active Directory || Part One](https://www.youtube.com/watch?v=mQT38VR4boQ)|[TryHackMe - Throwback FINALE - Attacking Windows Active Directory](https://www.youtube.com/watch?v=ukFC48bzVSM)
 - [TryHackMe Throwback Walkthrough Series](https://www.youtube.com/playlist?list=PLJQHPJLj_SQZPHIvkRxuYZGzqps8gE7tP)
 #### ATTACHDEFENSE
 - https://attackdefense.pentesteracademy.com/
