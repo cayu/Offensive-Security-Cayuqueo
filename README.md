@@ -38,6 +38,7 @@ Además [Joplin](https://joplinapp.org/) soporta syntaxis [Markdown](https://gui
 
 Para generar las tablas de reconocimiento utilicé [nmap2md](https://github.com/vdjagilev/nmap2md), tomanba la salida full scan de [AutoRecon-OSCP](https://github.com/DriftSec/AutoRecon-OSCP) y copiaba y pegaba.
 
+Finalmente a Septiembre de 2020, volví a utilizar Cherrytree y arme un template personalizado basado en todos los otros templates, el mismo se encuentra en "Phases/Phase 5 - Documentation"
 
 ## Detalles del examen
 
