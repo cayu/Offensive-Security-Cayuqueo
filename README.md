@@ -84,6 +84,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Writing a Simple Buffer Overflow Exploit](https://www.youtube.com/watch?v=oS2O75H57qU) | https://gist.github.com/LiveOverflow/5fa36bec51968de696b11d3548b02148
 - [Hacker Course Buffer Overflow - A Practical Example (with Exploit)](https://www.youtube.com/watch?v=aEZKGW_VTd4)
 - [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
+- [Buffer Overflow en Linux - Stack Based, Ret2libc (con/sin ASLR)](https://www.youtube.com/watch?v=HptLO59GP-E)
 - https://www.youtube.com/watch?v=Q30VcIq-pZY
 #### Vulnserver
 - [Vulnserver](https://samsclass.info/127/proj/vuln-server.htm)
