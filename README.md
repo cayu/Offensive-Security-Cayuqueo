@@ -86,6 +86,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
 - [Buffer Overflow en Linux - Stack Based, Ret2libc (con/sin ASLR)](https://www.youtube.com/watch?v=HptLO59GP-E)
 - https://www.youtube.com/watch?v=Q30VcIq-pZY
+- [Buffer-Overflow-offsec-style](https://github.com/tom0682/Buffer-Overflow-offsec-style)
 #### Vulnserver
 - [Vulnserver](https://samsclass.info/127/proj/vuln-server.htm)
 - [Step-By-Step VulnServer buffer overflow](https://www.youtube.com/watch?v=22XxOFa_HI8)
