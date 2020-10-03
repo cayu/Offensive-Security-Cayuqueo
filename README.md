@@ -129,6 +129,7 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [OSCP - Personal Notes](https://hackanythingfor.blogspot.com/2020/08/oscp-personal-notes.html)
 - [Preparación para el OSCP (by s4vitar)](https://gist.github.com/s4vitar/b88fefd5d9fbbdcc5f30729f7e06826e)
 ### LABS ONLINE
+Solo voy a poner las máquinas y challenges que me parecion interesantes y relacionados al OSCP, aunque sea de forma indirecta.
 #### VULNHUB
 - https://www.abatchy.com/2017/02/oscp-like-vulnhub-vms
 ##### Machines
@@ -176,6 +177,15 @@ Debido a las [restrincciones en el examen](https://support.offensive-security.co
 - [VulnHub Derpnstink Write-up (OSCP)](https://www.youtube.com/watch?v=wowC71aM7Qc)
 #### HACKTHEBOX
 Mi perfil de usuario : https://www.hackthebox.eu/home/users/profile/90122
+##### Machines
+- [Netmon](https://www.hackthebox.eu/home/machines/profile/177):heavy_check_mark:
+- [Writeup](https://www.hackthebox.eu/home/machines/profile/192):heavy_check_mark:
+- [Mango](https://www.hackthebox.eu/home/machines/profile/214):heavy_check_mark:
+- [Traverxec](https://www.hackthebox.eu/home/machines/profile/217):heavy_check_mark:
+- [AI](https://www.hackthebox.eu/home/machines/profile/216):heavy_check_mark:
+- [Obscurity](https://www.hackthebox.eu/home/machines/profile/219):heavy_check_mark:
+##### Challenges
+- Fuzzy :heavy_check_mark:
 ##### Walkthrough
 - [Netmon | Windows Privilege Escalation | enum & exploitation](https://www.youtube.com/watch?v=nMIhJtIHZNY)
 - [Devel | Windows Privilege Escalation Using Exploit Suggestor | Metasploit](https://www.youtube.com/watch?v=RXvUnQDuVqI)
