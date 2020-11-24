@@ -47,6 +47,7 @@ Subir una imagen a un formulario, en el campo img_avatar
 ```shell
 curl -F 'img_avatar=@/home/petehouston/hello.txt' http://localhost/upload
 ```
+### Ejemplos de descargas HTTP
 Download con Powershell al estilo Wget
 ```powershell
 Invoke-WebRequest <URL> -OutFile <ARCHIVO DE SALIDA>
@@ -56,6 +57,10 @@ Ejemplo de ejecución :
 Invoke-WebRequest https://raw.githubusercontent.com/M4ximuss/Powerless/master/Powerless.bat -OutFile Powerless.bat
 
 Invoke-WebRequest https://raw.githubusercontent.com/azmatt/windowsEnum/master/windowsEnum.bat -OutFile windowsEnum.bat
+```
+C#
+```
+csharp -e 'new System.Net.WebClient ().DownloadString ("https://www.google.com")'
 ```
 #### Publicación de datos por medio de HTTP
 Servidor HTTP rápido
