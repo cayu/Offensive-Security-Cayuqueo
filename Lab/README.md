@@ -19,6 +19,13 @@ Obtener los encabezados HTTP de una url
 ```shell
 curl -I https://www.google.com
 ```
+Obtener los encabezados HTTP de una lista de ip en loop
+```shell
+for i in {101..255}; do
+  echo $i
+  timeout 1s curl http://192.168.5.$i 
+done
+```
 Medir el tiempo de ejecución de curl
 ```shell
 curl -w "%{time_total}\n" -o /dev/null -s http://www.google.com
