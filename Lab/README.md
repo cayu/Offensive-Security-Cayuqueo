@@ -76,3 +76,19 @@ python -m SimpleHTTPServer
 
 python -m http.server
 ```
+#### Publicación de datos por medio de FTP
+Servidor FTP rápido
+```
+#!/usr/bin/env python3
+from pyftpdlib.authorizers import DummyAuthorizer
+from pyftpdlib.handlers import FTPHandler
+from pyftpdlib.servers import FTPServer
+
+authorizer = DummyAuthorizer()
+authorizer.add_user("user", "12345", "/home/cayu", perm="elradfmw")
+authorizer.add_anonymous("/home/cayu")
+handler = FTPHandler
+handler.authorizer = authorizer
+server = FTPServer(("0.0.0.0", 21), handler)
+server.serve_forever()
+```
