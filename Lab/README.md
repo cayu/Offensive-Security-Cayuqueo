@@ -71,14 +71,14 @@ csharp -e 'new System.Net.WebClient ().DownloadString ("https://www.google.com")
 ```
 #### Publicación de datos por medio de HTTP
 Servidor HTTP rápido
-```
+```python
 python -m SimpleHTTPServer
 
 python -m http.server
 ```
 #### Publicación de datos por medio de FTP
 Servidor FTP rápido
-```
+```python
 #!/usr/bin/env python3
 from pyftpdlib.authorizers import DummyAuthorizer
 from pyftpdlib.handlers import FTPHandler
