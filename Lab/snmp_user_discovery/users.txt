@@ -1,0 +1,15 @@
+root
+admin
+administrator
+webadmin
+sysadmin
+netadmin
+guest
+user
+web
+test
+jenny
+joe45
+john
+marcus
+ryuu
