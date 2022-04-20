@@ -1,3 +1,6 @@
+/*
+echo 0 > /proc/sys/kernel/randomize_va_space
+*/
 #include <string.h>
 #include <stdio.h>
 void main(int argc, char *argv[]) {
